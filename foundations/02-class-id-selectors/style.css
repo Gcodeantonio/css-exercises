@@ -1,3 +1,14 @@
 .odd-number {
     background-color: #ff000080;
 }
+
+#two {
+    font-weight: 36px;
+    color: #0000ff;
+}
+
+#four {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #00ff0080;
+}
