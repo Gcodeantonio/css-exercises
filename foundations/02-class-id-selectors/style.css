@@ -1,5 +1,9 @@
-.odd-number .variant {
+.odd-number {
     background-color: #ff000080;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.variant {
     font-size: 24px;
 }
 
